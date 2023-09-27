@@ -1,0 +1,26 @@
+2023-09-27 12:06:30 [restartedMain] INFO  I.A.S.SpringBootLoggingSlf4JApplication -
+                Starting SpringBootLoggingSlf4JApplication using Java 19.0.2 with PID 10828 (D:\JavaRealTime\22JRTP\Logging_Notes\SpringBoot Logging With SLF4J U-Tube Java Techie\My WorkSpace\SpringBoot-Logging-SLF4J\SpringBoot-Logging-SLF4J\target\classes started by Abdul Rehaman S in D:\JavaRealTime\22JRTP\Logging_Notes\SpringBoot Logging With SLF4J U-Tube Java Techie\My WorkSpace\SpringBoot-Logging-SLF4J\SpringBoot-Logging-SLF4J)
+2023-09-27 12:06:30 [restartedMain] DEBUG I.A.S.SpringBootLoggingSlf4JApplication -
+                Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-09-27 12:06:30 [restartedMain] INFO  I.A.S.SpringBootLoggingSlf4JApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-27 12:06:32 [restartedMain] INFO  I.A.S.SpringBootLoggingSlf4JApplication -
+                Started SpringBootLoggingSlf4JApplication in 2.358 seconds (process running for 3.432)
+2023-09-27 12:07:06 [restartedMain] INFO  I.A.S.SpringBootLoggingSlf4JApplication -
+                Starting SpringBootLoggingSlf4JApplication using Java 19.0.2 with PID 29288 (D:\JavaRealTime\22JRTP\Logging_Notes\SpringBoot Logging With SLF4J U-Tube Java Techie\My WorkSpace\SpringBoot-Logging-SLF4J\SpringBoot-Logging-SLF4J\target\classes started by Abdul Rehaman S in D:\JavaRealTime\22JRTP\Logging_Notes\SpringBoot Logging With SLF4J U-Tube Java Techie\My WorkSpace\SpringBoot-Logging-SLF4J\SpringBoot-Logging-SLF4J)
+2023-09-27 12:07:06 [restartedMain] DEBUG I.A.S.SpringBootLoggingSlf4JApplication -
+                Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-09-27 12:07:06 [restartedMain] INFO  I.A.S.SpringBootLoggingSlf4JApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-27 12:07:08 [restartedMain] INFO  I.A.S.SpringBootLoggingSlf4JApplication -
+                Started SpringBootLoggingSlf4JApplication in 1.633 seconds (process running for 2.209)
+2023-09-27 12:08:45 [http-nio-2020-exec-6] DEBUG I.A.S.Controller.controller -
+                Request abdul
+2023-09-27 12:08:45 [http-nio-2020-exec-6] DEBUG I.A.S.Controller.controller -
+                Response HiabdulWelcome to SpringBoot Logging System
+2023-09-27 12:08:47 [http-nio-2020-exec-7] DEBUG I.A.S.Controller.controller -
+                Request abdul
+2023-09-27 12:08:47 [http-nio-2020-exec-7] DEBUG I.A.S.Controller.controller -
+                Response HiabdulWelcome to SpringBoot Logging System
+2023-09-27 12:08:52 [http-nio-2020-exec-8] DEBUG I.A.S.Controller.controller -
+                Request test
